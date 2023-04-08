@@ -775,8 +775,6 @@ vendor/lib64/camera/fdconfigpreview.bin
 vendor/lib64/camera/fdconfigpreviewlite.bin
 vendor/lib64/camera/fdconfigvideo.bin
 vendor/lib64/camera/fdconfigvideolite.bin
-vendor/lib64/camera/libQnnHtpAltPrepV69Skel.so
-vendor/lib64/camera/libQnnHtpAltPrepV69Stub.so
 vendor/lib64/camera/plugins/com.xiaomi.plugin.anchor.so
 vendor/lib64/camera/plugins/com.xiaomi.plugin.arcsoftsll.so
 vendor/lib64/camera/plugins/com.xiaomi.plugin.capbokeh.so
@@ -863,8 +861,6 @@ vendor/lib64/hw/vendor.xiaomi.hardware.quickcamera@1.0-impl.so
 vendor/lib64/libAF.so
 vendor/lib64/libHISCppAlgos.so
 vendor/lib64/libSNPE.so
-vendor/lib64/libSnpeCpu.so
-vendor/lib64/libSnpeGpu.so
 vendor/lib64/libSnpeHtpV69Stub.so
 vendor/lib64/libTrueSight.so
 vendor/lib64/libaidenoiser.so
